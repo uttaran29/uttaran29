@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Uttaran Sarkar<br>🎓 I'm a Computer Science Engineering student at KIIT University (Class of 2026) passionate about building real-world tech solutions.<br>💻 I work on projects involving Full Stack Development, Machine Learning, and Cloud Computing (AWS).<br>🌱 Currently learning: Advanced backend with Spring Boot, system design, and scalable cloud architectures.<br>🚀 My goal is to become a Cloud Solutions Engineer and contribute to impactful, large-scale tech products.
+👋 Hi, I'm Uttaran Sarkar<br>🎓 I'm a Computer Science Engineering student at KIIT University (Class of 2026), passionate about building real-world tech solutions.<br>💻 I work on projects involving Full Stack Development, Machine Learning, and Cloud Computing (AWS).<br>🌱 Currently learning: Advanced backend with Spring Boot, system design, and scalable cloud architectures.<br>🚀 My goal is to become a Software Engineer and contribute to impactful, large-scale tech products.
 
 
 ## 🌐 Socials:
